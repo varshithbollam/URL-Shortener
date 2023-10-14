@@ -15,12 +15,9 @@
     </a>
   </h3>
 </div>
-<div align="center">
-   Solution for a challenge from  <a >frontendmentor.io</a>.
-</div>
+
 <br>
-<br>
-<br>
+
 
 ## About The Project
 
