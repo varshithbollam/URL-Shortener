@@ -1,31 +1,56 @@
-# URL-Shortener
-Project Goals:
+<h1 align="center">URL shortening API </h1>
 
-1.Create a landing page with responsive design.
+<div align="center">
+  <h3>
+    <a >
+      Live
+    </a>
+    <span> | </span>
+    <a href="">
+      Solution
+    </a>
+   <span> | </span>
+    <a>
+      Challenge
+    </a>
+  </h3>
+</div>
+<div align="center">
+   Solution for a challenge from  <a >frontendmentor.io</a>.
+</div>
+<br>
+<br>
+<br>
+
+## About The Project
+
+<p>The goal of this landing page challenge is integration with the shrtcode URL shortening API and playing with browser storage.
+The challenge is to integrate with the shrtcode API to create shortened URLs and display them like in the designs.
+You can use any JavaScript framework/library on the front-end such as React or Vue. You also have complete control over which packages you use to do things like make HTTP requests or style your project.
+<br><br>Project Goals:
+<br>1. Create a landing page with responsive design.
 2.Implement hover states for interactive elements.
-3.Allow users to shorten valid URLs.\n
-4.Enable users to copy shortened links to their clipboard with a single click.
-5.Display an error message if the form is submitted with an empty input field.
-6.Maintain a list of shortened links, even after the browser is refreshed.
+<br>
+3. Allow users to shorten valid URLs.
+<br>
+4. Enable users to copy shortened links to their clipboard with a single click.
+<br>
+  5. Display an error message if the form is submitted with an empty input field.
+  <br>
+  6. Maintain a list of shortened links, even after the browser is refreshed.
 
-Tech Stack:
+## Built with 
 
-1.Semantic HTML5 markup
-2.CSS with custom properties
-3.Utilize Flex and Grid for layout
-4.Use Shrtco URL shortening API
-5.Use any JavaScript framework/library (e.g., React or Vue)
-6.Implement desktop-first workflow
-7.Challenges and Learning:
+- Semantic HTML5 markup
+- CSS custom properties
+- Flex
+- Grid
+- Desktop-first workflow
+- Shrtco - url shortening API
 
-Experimenting with APIs, particularly the Shrtco API.
-Handling dynamic DOM elements with JavaScript.
-Attempting to store and retrieve data from browser storage (presumably localStorage) and displaying it on dynamic elements.
-Contribution:
+## Useful resources
 
-The project is intended to showcase personal skills, and the creator does not accept contributions or pull requests. However, suggestions or ideas are welcome.
-Useful Resources:
+1. <a href="https://www.figma.com/">Figma</a> - Paste your design image to check the size of containers, width, etc.
+2. <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
 
-1.Figma for design reference.
-2.Perfect Pixel Chrome extension for pixel-matching.
-3.Shrtco API for URL shortening.
+
