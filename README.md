@@ -3,7 +3,7 @@ Project Goals:
 
 1.Create a landing page with responsive design.
 2.Implement hover states for interactive elements.
-3.Allow users to shorten valid URLs.
+3.Allow users to shorten valid URLs.\n
 4.Enable users to copy shortened links to their clipboard with a single click.
 5.Display an error message if the form is submitted with an empty input field.
 6.Maintain a list of shortened links, even after the browser is refreshed.
